@@ -8,6 +8,19 @@ Ported with love from the [Lorem Ipsum][git-repo:brackets-lorem-ipsum] brackets 
 
 ---
 
+### Todo
+
+- [ ] 多语言 lorem
+    - [ ] 中文（默认大陆简体）lorem 后台接口（支持多种参数）
+    - [ ] lorem_lang=zh 中文（默认大陆简体）
+    - [ ] 多语言 lorem 后台接口（支持多种参数）
+    - [ ] lorem_lang=zh 中文（默认大陆简体）、lorem_lang=zh-CN 中文（大陆简体）、lorem_lang=zh-HK 中文（香港繁体）、lorem_lang=zh-TW 中文（台湾正体）、lorem_lang=ja（日本语）
+    、lorem_lang=en（English 已经默认实现）
+    - [ ] 用过的语言需要缓存到本地
+
+- 多语言标识规范，参考：维基百科
+
+
 ### How to Use
 
 > **Important**: For basic lorem ipsum text using the default settings just use the keybind `alt+l`.
